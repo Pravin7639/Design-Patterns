@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\bin\Debug\Dependancy Injection.exe.config
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\bin\Debug\Dependancy Injection.exe
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\bin\Debug\Dependancy Injection.pdb
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\obj\Debug\Dependancy Injection.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\obj\Debug\Dependancy Injection.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\obj\Debug\Dependancy Injection.exe
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\obj\Debug\Dependancy Injection.pdb
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\bin\Debug\Unity.Abstractions.dll
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\bin\Debug\Unity.Container.dll
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\bin\Debug\Unity.Abstractions.pdb
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\bin\Debug\Unity.Container.pdb
+C:\Users\DELL\source\repos\B22CodingStandards\Dependancy Injection\obj\Debug\Dependancy Injection.csproj.CopyComplete
