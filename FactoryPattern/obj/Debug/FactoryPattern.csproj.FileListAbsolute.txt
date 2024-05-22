@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\B22CodingStandards\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\DELL\source\repos\B22CodingStandards\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\DELL\source\repos\B22CodingStandards\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\DELL\source\repos\B22CodingStandards\FactoryPattern\obj\Debug\FactoryPattern.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\B22CodingStandards\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\B22CodingStandards\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\DELL\source\repos\B22CodingStandards\FactoryPattern\obj\Debug\FactoryPattern.pdb
